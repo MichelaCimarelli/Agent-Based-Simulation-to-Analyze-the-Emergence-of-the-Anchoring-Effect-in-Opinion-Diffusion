@@ -1,1 +1,1 @@
-# Agent-Based-Simulation-to-Analyze-the-Emergence-of-the-Anchoring-Effect-in-Opinion-Diffusion
+# Agent-Based Simulation to Analyze the Emergence of the Anchoring Effect in Opinion Diffusion
